@@ -2,5 +2,5 @@
 
 
 there are two virtual machines :هنا نوعين من الاجهزه الافتراضيه يمكنك تحميلهم
-1- Virtual box ,free مجاني
-2- Vmware workstation
+$ 1- Virtual box ,free مجاني
+$ 2- Vmware workstation
